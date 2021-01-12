@@ -1,2 +1,2 @@
-# lne_deamon
+# LNE Deamon
 Deamon for LNE Hub
