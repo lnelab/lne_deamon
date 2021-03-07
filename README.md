@@ -1,4 +1,4 @@
 # LNE Deamon
-Deamon for LNE Hub
+Deamon for LNE LINK
 
 ## Overview
